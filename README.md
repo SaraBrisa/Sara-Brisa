@@ -48,9 +48,11 @@
 
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaraBrisa&theme=radical&hide_border=false&background=0a0a30&ring=4169e1&fire=4169e1&currStreakNum=ffff00&sideNums==ffff00&dates=00ffff" />
+  <img src="https://streak-stats.demolab.com/?user=SaraBrisa&theme=radical&hide_border=false&background=0a0a30&ring=4169e1&fire=4169e1&currStreakNum=ffff00&sideNums=ffff00&dates=00ffff" />
+ <img src="https://streak-stats.demolab.com/?user=SaraBrisa&theme=radical&hide_border=false&background=0a0a30&ring=4169e1&fire=4169e1&currStreakNum=ffff00&sideNums=ff007&dates=00ffff" />
+  <img src="https://streak-stats.demolab.com/?user=SaraBrisa&theme=radical&hide_border=false&background=0a0a30&ring=00ffff&fire=00ffff&currStreakNum=ffff00&currStreakLabel=ffff00&sideNums=ff007&sideLabels=ff007f&dates=4169e1" />
 </p>
----
+
 
 ## 🧠 Habilidades em Destaque
 
