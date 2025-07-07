@@ -74,21 +74,6 @@
 <a href="https://www.instagram.com/saramariano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4169e1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/(16) 99360-5122" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
- <p align="center">
-<p>
-  <a href="mailto:sarabgmariano24@gmil.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"target="_blank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/(16) 99360-5122">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:0000FF&height=120&section=footer"/>
